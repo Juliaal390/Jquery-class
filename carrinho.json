@@ -1,0 +1,25 @@
+{
+    "cart": [
+      {
+        "id": 1,
+        "name": "Smartphone XYZ",
+        "price": 799.99,
+        "quantity": 1
+      },
+      {
+        "id": 2,
+        "name": "Laptop ABC",
+        "price": 1299.99,
+        "quantity": 1
+      },
+      {
+        "id": 3,
+        "name": "Headphones DEF",
+        "price": 199.99,
+        "quantity": 2
+      }
+    ],
+    "totalItems": 3,
+    "totalPrice": 2499.96
+  }
+  
